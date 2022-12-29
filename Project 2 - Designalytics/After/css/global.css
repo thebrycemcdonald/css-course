@@ -4,7 +4,7 @@ html {
 
 body {
   margin: 0;
-  background-color: #1F2023;
+  background-color: #1f2023;
   font-family: "Inter", sans-serif;
 }
 
@@ -18,7 +18,9 @@ ul {
   padding: 0;
 }
 
-li, p, a {
+li,
+p,
+a {
   font-size: 1.6rem;
 }
 
@@ -36,7 +38,9 @@ svg {
   width: 100%;
 }
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: border-box;
 }
 
@@ -49,4 +53,4 @@ svg {
   .hide-tablet {
     display: none;
   }
-}/*# sourceMappingURL=global.css.map */
+} /*# sourceMappingURL=global.css.map */

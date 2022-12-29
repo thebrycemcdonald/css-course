@@ -1,17 +1,32 @@
 :root {
-    --primary-color: #7E00FD;
+  --primary-color: #7e00fd;
 }
 
-html {font-size: 62.5%;}
+html {
+  font-size: 62.5%;
+}
 
-p, a {font-size: 1.8rem;}
-a {text-decoration: none;}
-ul {list-style-type:none;margin:0;padding:0;}
-.header-cta, .arrow {display: none;}
-.wrapper { margin: 2.6em; }
+p,
+a {
+  font-size: 1.8rem;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.header-cta,
+.arrow {
+  display: none;
+}
+.wrapper {
+  margin: 2.6em;
+}
 
 body {
-    font-family: 'Nunito', sans-serif;
-    margin: 0;
+  font-family: "Nunito", sans-serif;
+  margin: 0;
 }
-

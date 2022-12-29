@@ -4,7 +4,7 @@ html {
 
 body {
   margin: 0;
-  background-color: #1F2023;
+  background-color: #1f2023;
 }
 
 ul {
@@ -13,7 +13,9 @@ ul {
   padding: 0;
 }
 
-li, p, a {
+li,
+p,
+a {
   font-size: 1.6rem;
 }
 
@@ -24,4 +26,4 @@ a {
 
 p {
   font-size: 1.6em;
-}/*# sourceMappingURL=resets.css.map */
+} /*# sourceMappingURL=resets.css.map */
